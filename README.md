@@ -13,7 +13,7 @@ data structure!
 - Run `git clone {insertRepoNameHere}` to clone this repository.
 - Open up PyCharm or your favourite code editor for Python.
 - Look for the `main.py` file to run the program.
-- You should see a couple of prompt in the CLI. Have fun!
+- You should see a couple of prompts in the CLI. Have fun!
 
 
 ## Technologies
