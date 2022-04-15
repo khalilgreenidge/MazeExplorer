@@ -7,7 +7,7 @@ Let's explore the hidden mysteries! This program was written in Python.
 Follow along to see how I have written this program using the **Graph**
 data structure!
 
-
+![logo](logo.jpg)
 
 ## Getting Started
 - Run `git clone {insertRepoNameHere}` to clone this repository.
